@@ -1,0 +1,37 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Super Admin",
+        "email": "superadmin@example.com",
+        "password": "superadmin",
+        "role": "super-admin",
+        "phone": "1234567890",
+        "address": "123 Admin Street"
+      }
+    ],
+    "workspaces": [
+      {
+        "id": 1,
+        "name": "Workspace 1",
+        "email": "workspace1@example.com",
+        "phone": "1234567890",
+        "address": "123 Workspace Road"
+      }
+    ],
+    "employees": [
+      {
+        "id": 1,
+        "name": "Employee 1",
+        "email": "employee1@example.com",
+        "phone": "1234567890",
+        "address": "123 Employee Avenue",
+        "company": "Company 1",
+        "department": "IT",
+        "dob": "1990-01-01",
+        "profilePicture": "",
+        "joiningDate": "2020-01-01"
+      }
+    ]
+  }
+  
